@@ -18,6 +18,7 @@ public class TortoiseGit extends Activity {
         //tView.setText(getString(R.string.app_name) + ", 開始3");
         tView.setText(getString(R.string.app_name) + ", from MAC");
         tView.setText(getString(R.string.app_name) + ", from MAC2");
+        tView.setText(getString(R.string.app_name) + ", from 5/29 MAC3");
         setContentView(tView);
     }
 }
