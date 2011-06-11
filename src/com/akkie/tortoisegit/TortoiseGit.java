@@ -3,7 +3,7 @@ package com.akkie.tortoisegit;
 import android.app.Activity;
 import android.os.Bundle;
 import android.widget.TextView;
-
+/** local master branch */
 public class TortoiseGit extends Activity {
     /** Called when the activity is first created. */
     @Override
