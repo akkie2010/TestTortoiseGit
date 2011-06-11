@@ -23,6 +23,8 @@ public class TortoiseGit extends Activity {
 
         tView.setText(getString(R.string.app_name) + ", from 5/29 WIN7 NewBranch");
         tView.setText(getString(R.string.app_name) + ", from 5/29 WIN8 NewBranch");
+
+        //webから更新 6/11 17:58:55
         setContentView(tView);
     }
 }
