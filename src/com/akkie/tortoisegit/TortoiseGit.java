@@ -3,6 +3,7 @@ package com.akkie.tortoisegit;
 import android.app.Activity;
 import android.os.Bundle;
 import android.widget.TextView;
+
 /** local master branch */
 public class TortoiseGit extends Activity {
     /** Called when the activity is first created. */
@@ -22,6 +23,8 @@ public class TortoiseGit extends Activity {
         tView.setText(getString(R.string.app_name) + ", from 5/29 MAC5");
         
         tView.setText(getString(R.string.app_name) + ", from 5/29 MAC7");
+        
+        //local master branch 18:36
         setContentView(tView);
     }
 }
