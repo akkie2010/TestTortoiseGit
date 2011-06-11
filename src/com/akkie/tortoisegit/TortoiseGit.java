@@ -23,6 +23,8 @@ public class TortoiseGit extends Activity {
 
         tView.setText(getString(R.string.app_name) + ", from 5/29 WIN6 Master");
         tView.setText(getString(R.string.app_name) + ", from 5/29 WIN11 Master");
+
+//webから編集 6/11 18:22
         setContentView(tView);
     }
 }
